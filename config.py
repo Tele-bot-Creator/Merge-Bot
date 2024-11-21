@@ -8,7 +8,7 @@ class Config(object):
     OWNER = os.environ.get("OWNER", "1705634892")
     OWNER_USERNAME = os.environ.get("OWNER_USERNAME", "Itsme123i")
     PASSWORD = os.environ.get("PASSWORD", "123i")
-    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://python21java:<8ZFGYMKJCqAPwsiO>@cluster0.4ieuy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://zoneunknown745:<oPlpsH5OxkVuc5Wq>@renamebot.kyw2p.mongodb.net/?retryWrites=true&w=majority&appName=Renamebot")
     LOGCHANNEL = os.environ.get("LOGCHANNEL", "-1002288135729") 
     GDRIVE_FOLDER_ID = os.environ.get("GDRIVE_FOLDER_ID", "root")
     USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", None)
